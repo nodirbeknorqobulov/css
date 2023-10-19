@@ -1,19 +1,23 @@
-h4 {
-    color: aqua;
+h1{
+    background-color: brown;
 }
 
-.ad_cart{
-    color: red;
+#home{
+    color: blueviolet;
 }
 
-#btn{
-    color: violet;
+#hub{
+    color: blueviolet;
 }
 
-button{
-    color: chartreuse;
+#web{
+    color: brown;
 }
 
-.head1{
-    color: blue
+#info{
+    color: brown;
+}
+
+body{
+    background-color: burlywood;
 }
