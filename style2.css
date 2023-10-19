@@ -1,0 +1,13 @@
+h3{
+    border-style: solid;
+    border-radius: 100px;
+    border-color: red;
+    background-color: brown;
+}
+
+#box{
+    border-style: solid;
+    border-radius: 100px;
+    border-color: red;
+    background-color: brown;
+}
